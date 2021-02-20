@@ -46,6 +46,8 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 28. [Fails](#fails)
 
 ## Data Quality
+Done Reading on 20/02/2021 - 1,2
+Notes: Learn more about A/B tests and data migration. Also an interesting concept in [2] was swimlanes.
 1. [Monitoring Data Quality at Scale with Statistical Modeling](https://eng.uber.com/monitoring-data-quality-at-scale/) `Uber`
 2. [An Approach to Data Quality for Netflix Personalization Systems](https://databricks.com/session_na20/an-approach-to-data-quality-for-netflix-personalization-systems) `Netflix`
 3. [Automating Large-Scale Data Quality Verification](https://www.amazon.science/publications/automating-large-scale-data-quality-verification) ([Paper](https://assets.amazon.science/a6/88/ad858ee240c38c6e9dce128250c0/automating-large-scale-data-quality-verification.pdf))`Amazon`
